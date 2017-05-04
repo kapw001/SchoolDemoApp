@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="radious">4dp</dimen>
+    <dimen name="btntextsize">16sp</dimen>
+</resources>
